@@ -12,9 +12,10 @@
  *  you've won or lost.  
  */ 
 
-  // YOUR CODE HERE 
-  // YOUR CODE HERE  This program will not compile and run yet.
-  // YOUR CODE HERE 
+  bool play(std::vector <char> hand, char dealer, std::vector <char> other_cards) {
+  return false; 
+  }
+
 
 
 int value(std::vector <char> hand) {
